@@ -1,0 +1,46 @@
+img
+{
+border:dotted; 
+border-width:20px 20px 20px 20px;
+background-color:powderblue;
+padding:25px;
+margin:25px;
+border:25px solid;
+}
+h2
+{
+display:block;
+width:200px;
+height:100px;
+padding:5px;
+border:1px solid blue;
+background-color:yellow;
+}
+h3
+{
+display:block;
+width:200px;
+height:100px;
+padding:5px;
+border:1px solid blue;
+background-color:orange;https://github.com/20171cse0782/repository-1
+}
+h4
+{
+display:block;
+width:200px;
+height:100px;
+padding:5px;
+border:1px solid blue;
+background-color:blue;
+}
+a:link,a:visited
+{
+text-decoration:underline;
+color:blue;
+background-color:cyan;
+padding:14px 25px;
+text-align:left;
+display:inline-block;
+}
+
